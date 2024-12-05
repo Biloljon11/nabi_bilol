@@ -1,0 +1,22 @@
+.bilol{
+    background-color: black;
+    color: aliceblue;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.bilol3{
+    background-color: black;
+    color: aliceblue;
+    height: 20px;
+    border-radius: 10%;
+}
+.bilol1{
+    display: flex;
+    justify-content: center;
+}
+.bilol2{
+    margin-top: 200px;
+    gap: 100px;
+}
